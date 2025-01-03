@@ -1,0 +1,12 @@
+package Core Java;
+public class Main {
+public static void main(String[] args) {
+    String username = "Sathvik";
+        String password = "sathvik@001";
+
+        while ((username == "Sathvik") && (password == "sathvik@001")) {
+            System.out.println("every day is a same day");
+            break;
+        }
+}
+}
